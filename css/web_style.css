@@ -1,0 +1,23 @@
+/*
+    Created on : Aug 1, 2017, 10:29:39 AM
+    Author     : Robby
+*/
+body {
+    width: 85%;
+    margin: 0 auto;
+}
+
+header h1 {
+    text-align: center;
+}
+
+main {
+    padding: 5px;
+    background: #22cccc;
+}
+
+footer {
+    padding: 2px;
+    font-size: small;
+    text-align: right;
+}
